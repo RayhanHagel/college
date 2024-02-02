@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiBookOpenFill",
+      "RiGradienterLine",
+      "RiInformationLine",
+      "RiRouteLine",
+      "RiCodeView"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Coding/War Machine.md": "RiRobot2Fill",
+  "Coding/Formatting Options.md": "RiQuoteText",
+  "Coding": "RiCodeView",
+  "MPM": "RiRouteLine",
+  "MPM/Formatting": "RiInformationLine",
+  "MPM/Fraksi Metalurgi": "RiGradienterLine",
+  "College": "RiBookOpenFill"
+}

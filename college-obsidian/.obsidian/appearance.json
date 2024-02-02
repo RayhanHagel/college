@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 22,
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "custom-mermaid",
+    "image-allignment"
+  ]
+}

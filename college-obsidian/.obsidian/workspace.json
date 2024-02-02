@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "57a838015868eabf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fa88e2b25252ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fb7db3b182b7853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4th Semester/Fisika Material 3/Fismat3_DF_001.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cc1a5b77ce4fdd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "86f727763de8183c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c72b888bddaf32c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a674b66ab55e99a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9bf6e07ae08e3d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "b13e43ccbbf7f328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a44dc572c3a95d4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4th Semester/Fisika Material 3/Fismat3_DF_001.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88b6867ab81eae93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4th Semester/Fisika Material 3/Fismat3_DF_001.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d08a226674ea9be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59e4650c722fdccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4th Semester/Fisika Material 3/Fismat3_DF_001.md"
+              }
+            }
+          },
+          {
+            "id": "e23223a330787073",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "floating": {
+    "id": "4b6fa698c68b4ad5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "170e8dad30772a0c",
+        "type": "window",
+        "children": [
+          {
+            "id": "e5e543121bb67ccc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9ffab9342c9f4810",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4th Semester/Fisika Material 3/Fismat3_DF_001.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9ffab9342c9f4810",
+  "lastOpenFiles": [
+    "4th Semester/Analisis Data/Andat_NS_002.md",
+    "4th Semester/Fisika Material 3/Fismat3_DF_001.md",
+    "index.md",
+    "College/4th Semester/Fisika Material 3/Fismat3_DF_001.md",
+    "College/4th Semester/Analisis Data/Andat_NS_002.md",
+    "College/HomePage.md",
+    "College/4th Semester/Analisis Data/Analisis Data.md",
+    "College/4th Semester/Fisika Material 3/Fisika Material 3.md",
+    "College/4th Semester/Fisika Material 3/Deni Ferdian",
+    "College/4th Semester/Fisika Material 3",
+    "MPM/Fraksi Metalurgi/Forming/Kelas Besar.md",
+    "MPM/Formatting/Color Template.md",
+    "College/4th Semester/Analisis Data/Nofrijon Sofyan/flashcards.md",
+    "MPM/Kolega/Forming.md",
+    "MPM/Fraksi Metalurgi/Senior/Penentuan Kuorum.md",
+    "MPM/Fraksi Metalurgi/Senior/Forum Kesepakatan Tahunan.md",
+    "MPM/Fraksi Metalurgi/Rapat Fraksi/Rapat Fraksi_001.md",
+    "MPM/Fraksi Metalurgi/Rakoor Ketulem/Rakoor Ketulem_001.md",
+    "MPM/Fraksi Metalurgi/Forming/Visi Misi.md",
+    "College/4th Semester/Analisis Data/Nofrijon Sofyan/DASW_01_ClassIntro.pdf",
+    "College/4th Semester/DASW_01_ClassIntro.pdf",
+    "DASW_01_ClassIntro.pdf",
+    "DASW_01_ClassIntro.pdf.md",
+    "Coding/War Machine.md",
+    "College/4th Semester/Analisis Data/Nofrijon Sofyan",
+    "College/4th Semester/Analisis Data",
+    "College/4th Semester",
+    "College",
+    "Coding/Formatting Options.md",
+    "MPM/Fraksi Metalurgi/Rakoor Ketulem",
+    "MPM/Kolega/Forminga.md",
+    "bit.ly/UUDIKMFTUI.md",
+    "MPM/MPM Pleno/UUD IKM FTUI.md",
+    "MPM/MPM Pleno.md",
+    "MPM/Fraksi Metalurgi.md",
+    "a.css.md"
+  ]
+}
