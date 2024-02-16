@@ -7,7 +7,7 @@ Handbook:
 ***
 
 # Sifat Mekanik Material
-![Mechanical Properties](https://i.imgur.com/2MeMvLQ.png)
+<div style="text-align: center;"> <img src="https://i.imgur.com/2MeMvLQ.png" alt="Mechanical Properties"> </div>
 
 # <font color="#DCFFB7">Tensile Test</font>
 <p align="justify">Tensile strength is the <mark class="hltr-purple">maximum stress</mark> a material can bear before breaking when it is allowed to be stretched or pulled. It is a crucial property in material testing, as it provides valuable information about a material's mechanical behavior under static, axial loading. The purpose of tensile strength testing is to <mark class="hltr-purple">determine the material's tensile properties</mark>, such as yield point, elastic limit, percent elongation, elastic modulus, and toughness.</p>

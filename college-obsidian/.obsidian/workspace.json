@@ -148,47 +148,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "floating": {
-    "id": "4b6fa698c68b4ad5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "170e8dad30772a0c",
-        "type": "window",
-        "children": [
-          {
-            "id": "e5e543121bb67ccc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9ffab9342c9f4810",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4th Semester/Fisika Material 3/Fismat3_DF_001.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9ffab9342c9f4810",
+  "active": "1fb7db3b182b7853",
   "lastOpenFiles": [
-    "4th Semester/Analisis Data/Andat_NS_002.md",
+    "4th Semester/Korosi Dan Proteksi/Korosi_AZ_001.md",
     "4th Semester/Fisika Material 3/Fismat3_DF_001.md",
+    "4th Semester/Korosi Dan Proteksi",
+    "4th Semester/Analisis Data/Andat_NS_002.md",
     "index.md",
     "College/4th Semester/Fisika Material 3/Fismat3_DF_001.md",
     "College/4th Semester/Analisis Data/Andat_NS_002.md",
@@ -216,12 +181,10 @@
     "College/4th Semester",
     "College",
     "Coding/Formatting Options.md",
-    "MPM/Fraksi Metalurgi/Rakoor Ketulem",
     "MPM/Kolega/Forminga.md",
     "bit.ly/UUDIKMFTUI.md",
     "MPM/MPM Pleno/UUD IKM FTUI.md",
     "MPM/MPM Pleno.md",
-    "MPM/Fraksi Metalurgi.md",
-    "a.css.md"
+    "MPM/Fraksi Metalurgi.md"
   ]
 }
