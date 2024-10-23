@@ -1,8 +1,8 @@
 {
   "vaultName": "Obsidian",
-  "lastExport": 1728389899716,
+  "lastExport": 1729681352509,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon h2-underline",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -22,6 +22,7 @@
     "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 002.md",
     "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 003.md",
     "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 004.md",
+    "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 005.md",
     "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 001.md",
     "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 002.md",
     "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 003.md",
@@ -30,14 +31,17 @@
     "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 002.md",
     "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 003.md",
     "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 004.md",
+    "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 005.md",
     "3 - Semester 5/D - Komputasi Material/Komputasi Material 001.md",
     "3 - Semester 5/D - Komputasi Material/Komputasi Material 002.md",
     "3 - Semester 5/D - Komputasi Material/Komputasi Material 003.md",
+    "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 000 UTS.md",
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 001.md",
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 002.md",
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 003.md",
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 004.md",
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 005.md",
+    "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 006.md",
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 001.md",
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 002.md",
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 003.md",
@@ -47,6 +51,7 @@
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 007.md",
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 008.md",
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 009.md",
+    "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 010.md",
     "3 - Semester 5/H - Rekayasa Permukaan Lanjut/Rekayasa Permukaan Lanjut 001.md",
     "3 - Semester 5/H - Rekayasa Permukaan Lanjut/Rekayasa Permukaan Lanjut 002.md",
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 001.md",
@@ -55,6 +60,7 @@
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 004.md",
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 005.md",
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 006.md",
+    "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 007.md",
     "6 - Assets/Casting defect.png",
     "6 - Assets/Casting furnace.png",
     "6 - Assets/casting principle.png",
@@ -193,6 +199,35 @@
     "6 - Assets/Pasted Image 20241008114336_379.png",
     "6 - Assets/Pasted Image 20241008150847_501.png",
     "6 - Assets/Pasted Image 20241008150941_768.png",
+    "6 - Assets/Pasted image 20241009060333.png",
+    "6 - Assets/Pasted image 20241009061028.png",
+    "6 - Assets/Pasted image 20241009061835.png",
+    "6 - Assets/Pasted image 20241009063139.png",
+    "6 - Assets/Pasted image 20241009063154.png",
+    "6 - Assets/Pasted image 20241009063541.png",
+    "6 - Assets/Pasted image 20241009064724.png",
+    "6 - Assets/Pasted image 20241009132654.png",
+    "6 - Assets/Pasted image 20241009132657.png",
+    "6 - Assets/Pasted Image 20241009132730_879.png",
+    "6 - Assets/Pasted Image 20241009132809_273.png",
+    "6 - Assets/Pasted Image 20241009135602_702.jpg",
+    "6 - Assets/Pasted image 20241010133056.png",
+    "6 - Assets/Pasted image 20241010134851.png",
+    "6 - Assets/Pasted image 20241010140236.png",
+    "6 - Assets/Pasted image 20241014011944.png",
+    "6 - Assets/Pasted image 20241014012935.png",
+    "6 - Assets/Pasted image 20241014014736.png",
+    "6 - Assets/Pasted image 20241014024729.png",
+    "6 - Assets/Pasted Image 20241014025229_240.png",
+    "6 - Assets/Pasted image 20241014025932.png",
+    "6 - Assets/Pasted image 20241014030525.png",
+    "6 - Assets/Pasted image 20241014030758.png",
+    "6 - Assets/Pasted image 20241014050525.png",
+    "6 - Assets/Pasted image 20241015114714.png",
+    "6 - Assets/Pasted image 20241015120458.png",
+    "6 - Assets/Pasted image 20241015121218.png",
+    "6 - Assets/Pasted image 20241015153923.png",
+    "6 - Assets/Pasted Image 20241015160323_184.png",
     "6 - Assets/Powder Metallurgy.png",
     "6 - Assets/pressing and deep drawing.png",
     "6 - Assets/production steps in sand-casting.png",
@@ -204,7 +239,9 @@
     "7 - Excalidraw/Heat Treatment/strength fasa.md",
     "7 - Excalidraw/Metalurgi Ekstraksi/Atomic Species Mass Balance Example 3.md",
     "7 - Excalidraw/Proses Manufaktur Logam/bulk deformation processes.md",
+    "7 - Excalidraw/Proses Manufaktur Logam/Manlog 10-9.md",
     "7 - Excalidraw/Proses Manufaktur Logam/Sheet Metal Forming Processess.md",
+    "7 - Excalidraw/Teknologi Keramik/limit stability.md",
     "7 - Excalidraw/Teknologi Keramik/Mindmap.md",
     "7 - Excalidraw/Teknologi Polimer/Elastisitas vs Total Hubung SIlang.md",
     "7 - Excalidraw/Teknologi Polimer/indeks bias.md",
@@ -232,6 +269,7 @@
     "8 - Memory/uji impak.md",
     "8 - Memory/uji keras.md",
     "8 - Memory/uji tarik.md",
+    "9 - Life/Applications and Websites.md",
     "index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -247,7 +285,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/fonts/MathJax_Zero.woff",
     "lib/fonts/MathJax_Main-Regular.woff",
     "lib/fonts/MathJax_Main-Bold.woff",
@@ -286,7 +323,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/fonts/MathJax_Zero.woff",
     "lib/fonts/MathJax_Main-Regular.woff",
     "lib/fonts/MathJax_Main-Bold.woff",
@@ -312,1587 +348,1815 @@
   ],
   "fileInfo": {
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 006.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 3115,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 3291,
       "exportedPath": "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 006.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1728733910757,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "1 - Rough Notes/annealing.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 274,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 278,
       "exportedPath": "1 - Rough Notes/annealing.html",
       "dependencies": []
     },
     "1 - Rough Notes/creep.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/creep.html",
       "dependencies": []
     },
     "1 - Rough Notes/crevice corrosion.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/crevice corrosion.html",
       "dependencies": []
     },
     "1 - Rough Notes/galvanic corrosion.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/galvanic corrosion.html",
       "dependencies": []
     },
     "1 - Rough Notes/lever rule.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 276,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 360,
       "exportedPath": "1 - Rough Notes/lever rule.html",
       "dependencies": []
     },
     "1 - Rough Notes/martensite white etched layer.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/martensite white etched layer.html",
       "dependencies": []
     },
     "1 - Rough Notes/passivation.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/passivation.html",
       "dependencies": []
     },
     "1 - Rough Notes/pitting corrosion.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/pitting corrosion.html",
       "dependencies": []
     },
     "1 - Rough Notes/polymer density.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/polymer density.html",
       "dependencies": []
     },
     "1 - Rough Notes/uniform corrosion.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 0,
       "exportedPath": "1 - Rough Notes/uniform corrosion.html",
       "dependencies": []
     },
     "2 - Semester 4/Korosi dan Proteksi Logam/Korosi.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1839,
       "exportedPath": "2 - Semester 4/Korosi dan Proteksi Logam/Korosi.html",
       "dependencies": []
     },
     "2 - Semester 4/Praktikum DT/Index DT.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 81,
       "exportedPath": "2 - Semester 4/Praktikum DT/Index DT.html",
       "dependencies": []
     },
     "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2433,
       "exportedPath": "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 001.html",
       "dependencies": []
     },
     "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 002.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 3598,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 5752,
       "exportedPath": "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 002.html",
       "dependencies": []
     },
     "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 003.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 1949,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 4090,
       "exportedPath": "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 003.html",
       "dependencies": []
     },
     "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 004.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 636,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 1949,
       "exportedPath": "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 004.html",
       "dependencies": []
     },
     "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 5947,
       "exportedPath": "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 001.html",
       "dependencies": []
     },
     "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 002.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2535,
       "exportedPath": "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 002.html",
       "dependencies": []
     },
     "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 003.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3585,
       "exportedPath": "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 003.html",
       "dependencies": []
     },
     "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 004.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1195,
       "exportedPath": "3 - Semester 5/B - Asuhan Keperawatan/Asuhan Keperawatan 004.html",
       "dependencies": []
     },
     "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3786,
       "exportedPath": "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 001.html",
       "dependencies": []
     },
     "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 002.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 4075,
       "exportedPath": "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 002.html",
       "dependencies": []
     },
     "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 003.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 544,
       "exportedPath": "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 003.html",
       "dependencies": []
     },
     "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 004.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3937,
       "exportedPath": "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 004.html",
       "dependencies": []
     },
     "3 - Semester 5/D - Komputasi Material/Komputasi Material 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2818,
       "exportedPath": "3 - Semester 5/D - Komputasi Material/Komputasi Material 001.html",
       "dependencies": []
     },
     "3 - Semester 5/D - Komputasi Material/Komputasi Material 002.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2042,
       "exportedPath": "3 - Semester 5/D - Komputasi Material/Komputasi Material 002.html",
       "dependencies": []
     },
     "3 - Semester 5/D - Komputasi Material/Komputasi Material 003.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1712,
       "exportedPath": "3 - Semester 5/D - Komputasi Material/Komputasi Material 003.html",
       "dependencies": []
     },
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 8989,
       "exportedPath": "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 001.html",
       "dependencies": []
     },
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 002.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2943,
       "exportedPath": "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 002.html",
       "dependencies": []
     },
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 003.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1178,
       "exportedPath": "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 003.html",
       "dependencies": []
     },
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 004.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 1414,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 1407,
       "exportedPath": "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 004.html",
       "dependencies": []
     },
     "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 005.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 3006,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 3047,
       "exportedPath": "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 005.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 5751,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 001.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 002.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 4417,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 002.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 003.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1077,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 003.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 004.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3956,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 004.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 005.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3570,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 005.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 006.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 9037,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 006.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 007.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 7917,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 007.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 008.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 4713,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 008.html",
       "dependencies": []
     },
     "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 009.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1649,
       "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 009.html",
       "dependencies": []
     },
     "3 - Semester 5/H - Rekayasa Permukaan Lanjut/Rekayasa Permukaan Lanjut 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3896,
       "exportedPath": "3 - Semester 5/H - Rekayasa Permukaan Lanjut/Rekayasa Permukaan Lanjut 001.html",
       "dependencies": []
     },
     "3 - Semester 5/H - Rekayasa Permukaan Lanjut/Rekayasa Permukaan Lanjut 002.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 4718,
       "exportedPath": "3 - Semester 5/H - Rekayasa Permukaan Lanjut/Rekayasa Permukaan Lanjut 002.html",
       "dependencies": []
     },
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 001.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1260,
       "exportedPath": "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 001.html",
       "dependencies": []
     },
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 002.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 6507,
       "exportedPath": "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 002.html",
       "dependencies": []
     },
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 003.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 6347,
       "exportedPath": "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 003.html",
       "dependencies": []
     },
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 004.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 5574,
       "exportedPath": "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 004.html",
       "dependencies": []
     },
     "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 005.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 4995,
       "exportedPath": "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 005.html",
       "dependencies": []
     },
     "6 - Assets/Casting defect.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1322077,
       "exportedPath": "6 - Assets/Casting defect.png",
       "dependencies": []
     },
     "6 - Assets/Casting furnace.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 936761,
       "exportedPath": "6 - Assets/Casting furnace.png",
       "dependencies": []
     },
     "6 - Assets/casting principle.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 30083,
       "exportedPath": "6 - Assets/casting principle.png",
       "dependencies": []
     },
     "6 - Assets/contoh gating system.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2213343,
       "exportedPath": "6 - Assets/contoh gating system.png",
       "dependencies": []
     },
     "6 - Assets/Die Casting.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 21817,
       "exportedPath": "6 - Assets/Die Casting.png",
       "dependencies": []
     },
     "6 - Assets/die casting 1.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 91061,
       "exportedPath": "6 - Assets/die casting 1.png",
       "dependencies": []
     },
     "6 - Assets/direct extrusion.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 7670,
       "exportedPath": "6 - Assets/direct extrusion.png",
       "dependencies": []
     },
     "6 - Assets/Gating system.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 64753,
       "exportedPath": "6 - Assets/Gating system.png",
       "dependencies": []
     },
     "6 - Assets/indirect extrusion.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 8294,
       "exportedPath": "6 - Assets/indirect extrusion.png",
       "dependencies": []
     },
     "6 - Assets/ingate in gating system.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1070839,
       "exportedPath": "6 - Assets/ingate in gating system.png",
       "dependencies": []
     },
     "6 - Assets/metal casting production.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 458315,
       "exportedPath": "6 - Assets/metal casting production.png",
       "dependencies": []
     },
     "6 - Assets/Metal injection molding.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 184070,
       "exportedPath": "6 - Assets/Metal injection molding.png",
       "dependencies": []
     },
     "6 - Assets/miniplate in feet.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 45880,
       "exportedPath": "6 - Assets/miniplate in feet.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240830085448.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 103217,
       "exportedPath": "6 - Assets/Pasted image 20240830085448.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240830085913.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 39168,
       "exportedPath": "6 - Assets/Pasted image 20240830085913.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240830090350.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 695275,
       "exportedPath": "6 - Assets/Pasted image 20240830090350.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904055139.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 187114,
       "exportedPath": "6 - Assets/Pasted image 20240904055139.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904055703.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1279541,
       "exportedPath": "6 - Assets/Pasted image 20240904055703.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904055908.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 362810,
       "exportedPath": "6 - Assets/Pasted image 20240904055908.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904060129.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 295539,
       "exportedPath": "6 - Assets/Pasted image 20240904060129.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904061040.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 205209,
       "exportedPath": "6 - Assets/Pasted image 20240904061040.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904071933.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 364797,
       "exportedPath": "6 - Assets/Pasted image 20240904071933.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904072053.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 242755,
       "exportedPath": "6 - Assets/Pasted image 20240904072053.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904072206.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 103480,
       "exportedPath": "6 - Assets/Pasted image 20240904072206.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904072334.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 196025,
       "exportedPath": "6 - Assets/Pasted image 20240904072334.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904072455.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 454917,
       "exportedPath": "6 - Assets/Pasted image 20240904072455.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904073338.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 379317,
       "exportedPath": "6 - Assets/Pasted image 20240904073338.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904073752.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 117886,
       "exportedPath": "6 - Assets/Pasted image 20240904073752.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904080000.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 238763,
       "exportedPath": "6 - Assets/Pasted image 20240904080000.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904103225.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 560606,
       "exportedPath": "6 - Assets/Pasted image 20240904103225.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904103334.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 110094,
       "exportedPath": "6 - Assets/Pasted image 20240904103334.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904105721.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 99224,
       "exportedPath": "6 - Assets/Pasted image 20240904105721.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240904105855.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 108703,
       "exportedPath": "6 - Assets/Pasted image 20240904105855.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240910161448.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 60785,
       "exportedPath": "6 - Assets/Pasted image 20240910161448.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240910161540.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 71484,
       "exportedPath": "6 - Assets/Pasted image 20240910161540.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240918110023.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 192729,
       "exportedPath": "6 - Assets/Pasted image 20240918110023.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240918110234.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 99493,
       "exportedPath": "6 - Assets/Pasted image 20240918110234.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240919035726.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 52963,
       "exportedPath": "6 - Assets/Pasted image 20240919035726.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240919040030.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 77436,
       "exportedPath": "6 - Assets/Pasted image 20240919040030.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240919042359.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 63753,
       "exportedPath": "6 - Assets/Pasted image 20240919042359.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921005303.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 56642,
       "exportedPath": "6 - Assets/Pasted image 20240921005303.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921020742.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 122737,
       "exportedPath": "6 - Assets/Pasted image 20240921020742.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921021216.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 82146,
       "exportedPath": "6 - Assets/Pasted image 20240921021216.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921021223.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 82146,
       "exportedPath": "6 - Assets/Pasted image 20240921021223.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921021236.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1859272,
       "exportedPath": "6 - Assets/Pasted image 20240921021236.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921021421.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 40299,
       "exportedPath": "6 - Assets/Pasted image 20240921021421.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921021512.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 234084,
       "exportedPath": "6 - Assets/Pasted image 20240921021512.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921022248.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 133342,
       "exportedPath": "6 - Assets/Pasted image 20240921022248.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921022622.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 117081,
       "exportedPath": "6 - Assets/Pasted image 20240921022622.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921023034.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 399582,
       "exportedPath": "6 - Assets/Pasted image 20240921023034.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921023136.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 134555,
       "exportedPath": "6 - Assets/Pasted image 20240921023136.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921023255.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 374415,
       "exportedPath": "6 - Assets/Pasted image 20240921023255.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921024242.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 177338,
       "exportedPath": "6 - Assets/Pasted image 20240921024242.png",
       "dependencies": []
     },
     "6 - Assets/Pasted Image 20240921024543_335.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 172030,
       "exportedPath": "6 - Assets/Pasted Image 20240921024543_335.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921024818.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 177338,
       "exportedPath": "6 - Assets/Pasted image 20240921024818.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921024832.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 177338,
       "exportedPath": "6 - Assets/Pasted image 20240921024832.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921073007.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 119533,
       "exportedPath": "6 - Assets/Pasted image 20240921073007.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921075551.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 58988,
       "exportedPath": "6 - Assets/Pasted image 20240921075551.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921075811.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 116149,
       "exportedPath": "6 - Assets/Pasted image 20240921075811.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921080324.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 50413,
       "exportedPath": "6 - Assets/Pasted image 20240921080324.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921082351.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 20379,
       "exportedPath": "6 - Assets/Pasted image 20240921082351.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921082400.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 20606,
       "exportedPath": "6 - Assets/Pasted image 20240921082400.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921082906.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 42173,
       "exportedPath": "6 - Assets/Pasted image 20240921082906.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921083055.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 26814,
       "exportedPath": "6 - Assets/Pasted image 20240921083055.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921090329.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 221768,
       "exportedPath": "6 - Assets/Pasted image 20240921090329.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921090354.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 91621,
       "exportedPath": "6 - Assets/Pasted image 20240921090354.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921091513.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 38921,
       "exportedPath": "6 - Assets/Pasted image 20240921091513.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921094057.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 31204,
       "exportedPath": "6 - Assets/Pasted image 20240921094057.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921094434.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 25083,
       "exportedPath": "6 - Assets/Pasted image 20240921094434.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921101123.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 53188,
       "exportedPath": "6 - Assets/Pasted image 20240921101123.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921101927.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3258,
       "exportedPath": "6 - Assets/Pasted image 20240921101927.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921102320.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 29411,
       "exportedPath": "6 - Assets/Pasted image 20240921102320.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921102519.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 53687,
       "exportedPath": "6 - Assets/Pasted image 20240921102519.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921102546.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 46060,
       "exportedPath": "6 - Assets/Pasted image 20240921102546.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921102729.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 35072,
       "exportedPath": "6 - Assets/Pasted image 20240921102729.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921102748.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 54067,
       "exportedPath": "6 - Assets/Pasted image 20240921102748.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921103258.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 144197,
       "exportedPath": "6 - Assets/Pasted image 20240921103258.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921103309.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 212158,
       "exportedPath": "6 - Assets/Pasted image 20240921103309.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240921104002.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 59121,
       "exportedPath": "6 - Assets/Pasted image 20240921104002.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923075807.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 67832,
       "exportedPath": "6 - Assets/Pasted image 20240923075807.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923075809.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 67832,
       "exportedPath": "6 - Assets/Pasted image 20240923075809.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923083356.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 82544,
       "exportedPath": "6 - Assets/Pasted image 20240923083356.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923083516.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 50483,
       "exportedPath": "6 - Assets/Pasted image 20240923083516.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923100534.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 65877,
       "exportedPath": "6 - Assets/Pasted image 20240923100534.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923103018.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 308681,
       "exportedPath": "6 - Assets/Pasted image 20240923103018.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923104344.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 506986,
       "exportedPath": "6 - Assets/Pasted image 20240923104344.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923105259.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 135737,
       "exportedPath": "6 - Assets/Pasted image 20240923105259.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923110012.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 281032,
       "exportedPath": "6 - Assets/Pasted image 20240923110012.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923110631.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 8634,
       "exportedPath": "6 - Assets/Pasted image 20240923110631.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923120015.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 156402,
       "exportedPath": "6 - Assets/Pasted image 20240923120015.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923160925.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 478798,
       "exportedPath": "6 - Assets/Pasted image 20240923160925.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240923160944.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 139228,
       "exportedPath": "6 - Assets/Pasted image 20240923160944.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924082318.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 49641,
       "exportedPath": "6 - Assets/Pasted image 20240924082318.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924164639.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 395155,
       "exportedPath": "6 - Assets/Pasted image 20240924164639.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924164958.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 162850,
       "exportedPath": "6 - Assets/Pasted image 20240924164958.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924165038.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 156235,
       "exportedPath": "6 - Assets/Pasted image 20240924165038.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924170346.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 129910,
       "exportedPath": "6 - Assets/Pasted image 20240924170346.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924171939.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 72885,
       "exportedPath": "6 - Assets/Pasted image 20240924171939.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924175759.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 45170,
       "exportedPath": "6 - Assets/Pasted image 20240924175759.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924181548.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 308057,
       "exportedPath": "6 - Assets/Pasted image 20240924181548.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924182626.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 390869,
       "exportedPath": "6 - Assets/Pasted image 20240924182626.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924182710.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 390869,
       "exportedPath": "6 - Assets/Pasted image 20240924182710.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924183022.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 168953,
       "exportedPath": "6 - Assets/Pasted image 20240924183022.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240924183051.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 168953,
       "exportedPath": "6 - Assets/Pasted image 20240924183051.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927050341.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 257288,
       "exportedPath": "6 - Assets/Pasted image 20240927050341.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927050502.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 507734,
       "exportedPath": "6 - Assets/Pasted image 20240927050502.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927050750.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 52469,
       "exportedPath": "6 - Assets/Pasted image 20240927050750.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927051126.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 57557,
       "exportedPath": "6 - Assets/Pasted image 20240927051126.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927051845.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 291742,
       "exportedPath": "6 - Assets/Pasted image 20240927051845.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927052945.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 178820,
       "exportedPath": "6 - Assets/Pasted image 20240927052945.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927053153.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 25542,
       "exportedPath": "6 - Assets/Pasted image 20240927053153.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927053155.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 25542,
       "exportedPath": "6 - Assets/Pasted image 20240927053155.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927053829.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 110221,
       "exportedPath": "6 - Assets/Pasted image 20240927053829.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240927054038.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 69784,
       "exportedPath": "6 - Assets/Pasted image 20240927054038.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20240930102017.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 190265,
       "exportedPath": "6 - Assets/Pasted image 20240930102017.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002102146.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 28553,
       "exportedPath": "6 - Assets/Pasted image 20241002102146.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002103256.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 33417,
       "exportedPath": "6 - Assets/Pasted image 20241002103256.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002104139.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 80117,
       "exportedPath": "6 - Assets/Pasted image 20241002104139.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002104811.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 66676,
       "exportedPath": "6 - Assets/Pasted image 20241002104811.png",
       "dependencies": []
     },
     "6 - Assets/Pasted Image 20241002132956_297.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 81857,
       "exportedPath": "6 - Assets/Pasted Image 20241002132956_297.png",
       "dependencies": []
     },
     "6 - Assets/Pasted Image 20241002133613_328.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 103865,
       "exportedPath": "6 - Assets/Pasted Image 20241002133613_328.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002134013.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 92191,
       "exportedPath": "6 - Assets/Pasted image 20241002134013.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002134520.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 593008,
       "exportedPath": "6 - Assets/Pasted image 20241002134520.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002134532.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 594130,
       "exportedPath": "6 - Assets/Pasted image 20241002134532.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002134834.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 6842,
       "exportedPath": "6 - Assets/Pasted image 20241002134834.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002135142.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 21161,
       "exportedPath": "6 - Assets/Pasted image 20241002135142.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002140019.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 26770,
       "exportedPath": "6 - Assets/Pasted image 20241002140019.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002140100.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 100916,
       "exportedPath": "6 - Assets/Pasted image 20241002140100.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002140154.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 110989,
       "exportedPath": "6 - Assets/Pasted image 20241002140154.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002140444.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 429233,
       "exportedPath": "6 - Assets/Pasted image 20241002140444.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002140445.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 429233,
       "exportedPath": "6 - Assets/Pasted image 20241002140445.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241002141040.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 302614,
       "exportedPath": "6 - Assets/Pasted image 20241002141040.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241004092403.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1846918,
       "exportedPath": "6 - Assets/Pasted image 20241004092403.png",
       "dependencies": []
     },
     "6 - Assets/Pasted image 20241004092653.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1722512,
       "exportedPath": "6 - Assets/Pasted image 20241004092653.png",
       "dependencies": []
     },
     "6 - Assets/Powder Metallurgy.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 184571,
       "exportedPath": "6 - Assets/Powder Metallurgy.png",
       "dependencies": []
     },
     "6 - Assets/pressing and deep drawing.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 74317,
       "exportedPath": "6 - Assets/pressing and deep drawing.png",
       "dependencies": []
     },
     "6 - Assets/production steps in sand-casting.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 191127,
       "exportedPath": "6 - Assets/production steps in sand-casting.png",
       "dependencies": []
     },
     "6 - Assets/Sand casting production.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 191127,
       "exportedPath": "6 - Assets/Sand casting production.png",
       "dependencies": []
     },
     "6 - Assets/sheet metal forming (rolling).png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 259864,
       "exportedPath": "6 - Assets/sheet metal forming (rolling).png",
       "dependencies": []
     },
     "6 - Assets/Wax casting.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 389665,
       "exportedPath": "6 - Assets/Wax casting.png",
       "dependencies": []
     },
     "7 - Excalidraw/Asuhan Keperawatan/infeksi oportunistik.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 42714,
       "exportedPath": "7 - Excalidraw/Asuhan Keperawatan/infeksi oportunistik.html",
       "dependencies": []
     },
     "7 - Excalidraw/Heat Treatment/fe3c diagram heat treatment.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 104675,
       "exportedPath": "7 - Excalidraw/Heat Treatment/fe3c diagram heat treatment.html",
       "dependencies": []
     },
     "7 - Excalidraw/Heat Treatment/strength fasa.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 102422,
       "exportedPath": "7 - Excalidraw/Heat Treatment/strength fasa.html",
       "dependencies": []
     },
     "7 - Excalidraw/Proses Manufaktur Logam/bulk deformation processes.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3827,
       "exportedPath": "7 - Excalidraw/Proses Manufaktur Logam/bulk deformation processes.html",
       "dependencies": []
     },
     "7 - Excalidraw/Proses Manufaktur Logam/Sheet Metal Forming Processess.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3425,
       "exportedPath": "7 - Excalidraw/Proses Manufaktur Logam/Sheet Metal Forming Processess.html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Keramik/Mindmap.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 96483,
       "exportedPath": "7 - Excalidraw/Teknologi Keramik/Mindmap.html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/Elastisitas vs Total Hubung SIlang.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 11617,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/Elastisitas vs Total Hubung SIlang.html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/indeks bias.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 23726,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/indeks bias.html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/Kristalin dan Amorf.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 32270,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/Kristalin dan Amorf.html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/Marketshare vs Waktu.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 40581,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/Marketshare vs Waktu.html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/pelurusan (lamelar).md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 42069,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/pelurusan (lamelar).html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/PVC (Hubung Silang Semu).md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 34907,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/PVC (Hubung Silang Semu).html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/PVC (Ikatan Vanderwaals).md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 51852,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/PVC (Ikatan Vanderwaals).html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/PVC (Parsial Negative).md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 54410,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/PVC (Parsial Negative).html",
       "dependencies": []
     },
     "7 - Excalidraw/Teknologi Polimer/shaping polymer (matpol).md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 21543,
       "exportedPath": "7 - Excalidraw/Teknologi Polimer/shaping polymer (matpol).html",
       "dependencies": []
     },
     "8 - Memory/Ductile to Brittle Transition.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2271,
       "exportedPath": "8 - Memory/Ductile to Brittle Transition.html",
       "dependencies": []
     },
     "8 - Memory/grain boundary strengthening.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1135,
       "exportedPath": "8 - Memory/grain boundary strengthening.html",
       "dependencies": []
     },
     "8 - Memory/heat treatment.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 942,
       "exportedPath": "8 - Memory/heat treatment.html",
       "dependencies": []
     },
     "8 - Memory/hydrogen embrittlement.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 643,
       "exportedPath": "8 - Memory/hydrogen embrittlement.html",
       "dependencies": []
     },
     "8 - Memory/intergranular corrosion.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 416,
       "exportedPath": "8 - Memory/intergranular corrosion.html",
       "dependencies": []
     },
     "8 - Memory/ketangguhan.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 173,
       "exportedPath": "8 - Memory/ketangguhan.html",
       "dependencies": []
     },
     "8 - Memory/precipitation strengthening.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 1477,
       "exportedPath": "8 - Memory/precipitation strengthening.html",
       "dependencies": []
     },
     "8 - Memory/sensitisasi.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 452,
       "exportedPath": "8 - Memory/sensitisasi.html",
       "dependencies": []
     },
     "8 - Memory/shear fracture.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 414,
       "exportedPath": "8 - Memory/shear fracture.html",
       "dependencies": []
     },
     "8 - Memory/solid solution strengthening.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 426,
       "exportedPath": "8 - Memory/solid solution strengthening.html",
       "dependencies": []
     },
     "8 - Memory/strain hardening.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 429,
       "exportedPath": "8 - Memory/strain hardening.html",
       "dependencies": []
     },
     "8 - Memory/strengthening.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 361,
       "exportedPath": "8 - Memory/strengthening.html",
       "dependencies": []
     },
     "8 - Memory/stress corrosion cracking.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 625,
       "exportedPath": "8 - Memory/stress corrosion cracking.html",
       "dependencies": []
     },
     "8 - Memory/uji aus.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2188,
       "exportedPath": "8 - Memory/uji aus.html",
       "dependencies": []
     },
     "8 - Memory/uji impak.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2486,
       "exportedPath": "8 - Memory/uji impak.html",
       "dependencies": []
     },
     "8 - Memory/uji keras.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 3659,
       "exportedPath": "8 - Memory/uji keras.html",
       "dependencies": []
     },
     "8 - Memory/uji tarik.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 3949,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 3954,
       "exportedPath": "8 - Memory/uji tarik.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1728389899716,
-      "sourceSize": 1427,
+      "modifiedTime": 1729681352509,
+      "sourceSize": 1615,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "6 - Assets/Pasted Image 20241008111624_054.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 279901,
       "exportedPath": "6 - Assets/Pasted Image 20241008111624_054.png",
       "dependencies": []
     },
     "6 - Assets/Pasted Image 20241008114336_379.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 7772,
       "exportedPath": "6 - Assets/Pasted Image 20241008114336_379.png",
       "dependencies": []
     },
     "7 - Excalidraw/Metalurgi Ekstraksi/Atomic Species Mass Balance Example 3.md": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 2064483,
       "exportedPath": "7 - Excalidraw/Metalurgi Ekstraksi/Atomic Species Mass Balance Example 3.html",
       "dependencies": []
     },
     "6 - Assets/Pasted Image 20241008150847_501.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 6429,
       "exportedPath": "6 - Assets/Pasted Image 20241008150847_501.png",
       "dependencies": []
     },
     "6 - Assets/Pasted Image 20241008150941_768.png": {
-      "modifiedTime": 1728389899716,
+      "modifiedTime": 1729681352509,
       "sourceSize": 218497,
       "exportedPath": "6 - Assets/Pasted Image 20241008150941_768.png",
+      "dependencies": []
+    },
+    "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 006.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 5080,
+      "exportedPath": "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 006.html",
+      "dependencies": []
+    },
+    "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 010.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 571,
+      "exportedPath": "3 - Semester 5/F - Manufaktur Logam/Prosmanlog 010.html",
+      "dependencies": []
+    },
+    "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 007.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 3645,
+      "exportedPath": "3 - Semester 5/I - Teknologi Polimer/Teknologi Polimer 007.html",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009060333.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 87014,
+      "exportedPath": "6 - Assets/Pasted image 20241009060333.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009061028.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 44939,
+      "exportedPath": "6 - Assets/Pasted image 20241009061028.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009061835.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 56836,
+      "exportedPath": "6 - Assets/Pasted image 20241009061835.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009063139.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 273599,
+      "exportedPath": "6 - Assets/Pasted image 20241009063139.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009063154.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 181203,
+      "exportedPath": "6 - Assets/Pasted image 20241009063154.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009063541.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 121166,
+      "exportedPath": "6 - Assets/Pasted image 20241009063541.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009064724.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 90853,
+      "exportedPath": "6 - Assets/Pasted image 20241009064724.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009132654.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 223454,
+      "exportedPath": "6 - Assets/Pasted image 20241009132654.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241009132657.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 223454,
+      "exportedPath": "6 - Assets/Pasted image 20241009132657.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted Image 20241009132730_879.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 220052,
+      "exportedPath": "6 - Assets/Pasted Image 20241009132730_879.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted Image 20241009132809_273.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 174151,
+      "exportedPath": "6 - Assets/Pasted Image 20241009132809_273.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted Image 20241009135602_702.jpg": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 291525,
+      "exportedPath": "6 - Assets/Pasted Image 20241009135602_702.jpg",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241010133056.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 330595,
+      "exportedPath": "6 - Assets/Pasted image 20241010133056.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241010134851.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 311672,
+      "exportedPath": "6 - Assets/Pasted image 20241010134851.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241010140236.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 338347,
+      "exportedPath": "6 - Assets/Pasted image 20241010140236.png",
+      "dependencies": []
+    },
+    "7 - Excalidraw/Proses Manufaktur Logam/Manlog 10-9.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 3401,
+      "exportedPath": "7 - Excalidraw/Proses Manufaktur Logam/Manlog 10-9.html",
+      "dependencies": []
+    },
+    "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 005.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 1505,
+      "exportedPath": "3 - Semester 5/A - Teknologi Keramik/Teknologi Keramik 005.html",
+      "dependencies": []
+    },
+    "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 005.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 5143,
+      "exportedPath": "3 - Semester 5/C - Teknik Penulisan Proposal/TPPP 005.html",
+      "dependencies": []
+    },
+    "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 000 UTS.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 4335,
+      "exportedPath": "3 - Semester 5/E - Metalurgi Ekstraksi/Metalurgi Ekstraksi 000 UTS.html",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014011944.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 230968,
+      "exportedPath": "6 - Assets/Pasted image 20241014011944.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014012935.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 96935,
+      "exportedPath": "6 - Assets/Pasted image 20241014012935.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014014736.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 30340,
+      "exportedPath": "6 - Assets/Pasted image 20241014014736.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014024729.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 262251,
+      "exportedPath": "6 - Assets/Pasted image 20241014024729.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted Image 20241014025229_240.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 290537,
+      "exportedPath": "6 - Assets/Pasted Image 20241014025229_240.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014025932.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 160548,
+      "exportedPath": "6 - Assets/Pasted image 20241014025932.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014030525.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 125858,
+      "exportedPath": "6 - Assets/Pasted image 20241014030525.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014030758.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 123864,
+      "exportedPath": "6 - Assets/Pasted image 20241014030758.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241014050525.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 92296,
+      "exportedPath": "6 - Assets/Pasted image 20241014050525.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241015114714.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 143090,
+      "exportedPath": "6 - Assets/Pasted image 20241015114714.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241015120458.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 16526,
+      "exportedPath": "6 - Assets/Pasted image 20241015120458.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241015121218.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 22692,
+      "exportedPath": "6 - Assets/Pasted image 20241015121218.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted image 20241015153923.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 13488,
+      "exportedPath": "6 - Assets/Pasted image 20241015153923.png",
+      "dependencies": []
+    },
+    "6 - Assets/Pasted Image 20241015160323_184.png": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 10487,
+      "exportedPath": "6 - Assets/Pasted Image 20241015160323_184.png",
+      "dependencies": []
+    },
+    "7 - Excalidraw/Teknologi Keramik/limit stability.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 4965,
+      "exportedPath": "7 - Excalidraw/Teknologi Keramik/limit stability.html",
+      "dependencies": []
+    },
+    "9 - Life/Applications and Websites.md": {
+      "modifiedTime": 1729681352509,
+      "sourceSize": 2193,
+      "exportedPath": "9 - Life/Applications and Websites.html",
       "dependencies": []
     }
   }
